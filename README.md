@@ -1,1 +1,3 @@
-# Kogane.AutoInactiveComponent
+# Kogane Auto Inactive Component
+
+シーン開始時にゲームオブジェクトを自動で非アクティブにするコンポーネント
